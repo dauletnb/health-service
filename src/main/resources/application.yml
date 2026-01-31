@@ -1,4 +1,4 @@
 server:
   port: ${SERVICE_PORT:8080}
-app:
+service:
   name: ${SERVICE_NAME:health-service}
